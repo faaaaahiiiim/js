@@ -1,3 +1,5 @@
+console.log(window.innerWidth)
+console.log(window.innerHeight)
+window.alert("this is an alert")
+const name = window.prompt("sup?")
 console.log(window)
-
-console.log(heloooo)
