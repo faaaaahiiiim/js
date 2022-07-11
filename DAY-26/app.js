@@ -14,6 +14,8 @@ const car = {
     }
 }
 
+//this keyword will refer to window when it is not inside an object
+
 car.move()
 console.log(this)
 
