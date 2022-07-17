@@ -132,17 +132,17 @@
 
 ////spread operator with object
 
-const car = {
-    model: "bmw"
-}
-const engine ={
-    type: "v8"
-}
-console.log({...car,...engine}) // it has to be inside curly brackets
+// const car = {
+//     model: "bmw"
+// }
+// const engine ={
+//     type: "v8"
+// }
+// console.log({...car,...engine}) // it has to be inside curly brackets
 
 
 //// template strings
-const Name = "john"
-const age = 21
-console.log(Name +" is"+ age+" years old")
-console.log(`${Name} is ${age>20? "old":"young"} years old`) //can add logic
+// const Name = "john"
+// const age = 21
+// console.log(Name +" is"+ age+" years old")
+// console.log(`${Name} is ${age>20? "old":"young"} years old`) //can add logic
